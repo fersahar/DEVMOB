@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317242454654",
+    "project_id": "devmob-fc167",
+    "storage_bucket": "devmob-fc167.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317242454654:android:3d493e0eb3dd0e0fb35e2f",
+        "android_client_info": {
+          "package_name": "com.example.devmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODm5KdHGjRgc61buS_y9rmhPyQxvk5zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317242454654:android:baecfbb8c304604cb35e2f",
+        "android_client_info": {
+          "package_name": "com.example.sharely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODm5KdHGjRgc61buS_y9rmhPyQxvk5zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
